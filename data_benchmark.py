@@ -8,7 +8,7 @@ class benchmark:
         self.list_moy = []
         self.list_of_distance = []
 
-    def data_analysis(self, data):
+    def data_statistics(self, data):
         for key in data:
             print(key)
             try:
